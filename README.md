@@ -8,6 +8,7 @@ All my DSA stuff here.
 Recursion/
 ├── factorial.cpp
 ├── power.cpp
+├── poweroptimised.cpp
 ```
 
 ---
