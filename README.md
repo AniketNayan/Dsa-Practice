@@ -2,7 +2,14 @@
 
 All my DSA stuff here.
 
-week 1: 
-recursion
+## Week 1 — Recursion
+
+```text
+Recursion/
+├── factorial.cpp
+├── power.cpp
+```
+
+---
 
 Started April 2026
