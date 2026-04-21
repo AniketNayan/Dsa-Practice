@@ -9,6 +9,7 @@ Recursion/
 ├── factorial.cpp
 ├── power.cpp
 ├── poweroptimised.cpp
+├── n_natural_no.cpp
 ```
 
 ---
