@@ -13,6 +13,7 @@ Recursion/
 ├── fibonacci.cpp
 ├── no_consecutive_1.cpp
 ├── array_recursively.cpp
+├── linearSearch_recursively.cpp
 ```
 
 ---
