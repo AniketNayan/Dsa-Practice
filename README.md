@@ -18,6 +18,7 @@ Recursion/
 ├── 10_PatternRecursively.cpp
 ├── 11_MaxElementArray.cpp
 ├── 12_SumofArray.cpp
+├── 13_SumofDigits.cpp
 ```
 
 ---
