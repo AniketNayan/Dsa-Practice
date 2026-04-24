@@ -15,6 +15,7 @@ Recursion/
 ├── 7_array_recursively.cpp
 ├── 8_linearSearch_recursively.cpp
 ├── 9_HouseRobberRecursively.cpp (Leetcode 198)
+├── 10_PatternRecursively.cpp
 ```
 
 ---
