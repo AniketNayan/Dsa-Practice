@@ -16,6 +16,8 @@ Recursion/
 ├── 8_linearSearch_recursively.cpp
 ├── 9_HouseRobberRecursively.cpp (Leetcode 198)
 ├── 10_PatternRecursively.cpp
+├── 11_MaxElementArray.cpp
+├── 12_SumofArray.cpp
 ```
 
 ---
